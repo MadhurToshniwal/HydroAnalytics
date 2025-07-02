@@ -8,7 +8,7 @@ This production-grade system leverages a modular backend architecture, optimized
 
 ## 🚀 Live Demo
 
-🌐 [Launch the Dashboard](https://your-deployed-link.com)
+🌐 [Launch the Dashboard](http://103.224.245.53:8501/)
 
 ---
 
