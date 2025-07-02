@@ -80,8 +80,7 @@ This production-grade system leverages a modular backend architecture, optimized
 
 **Madhur Sunilkumar Toshniwal**  
 🎓 B.Tech, Vellore Institute of Technology  
-📧 [your.email@example.com](mailto:your.email@example.com) • 🔗 [LinkedIn](https://linkedin.com/in/madhur-toshniwal
-
+📧 [your.email@example.com](mailto:madhurtoshniwal03@gmail.com) • 🔗 [LinkedIn](https://linkedin.com/in/madhur-toshniwal
 ) • 🐙 [GitHub](https://github.com/MadhurToshniwal)
 
 ---
