@@ -8,7 +8,7 @@ This production-grade system leverages a modular backend architecture, optimized
 
 ## 🚀 Live Demo
 
-🌐 [http://103.224.245.53:8501](http://103.224.245.53:8501/)
+🌐 Launch the Dashboard via this link: [http://103.224.245.53:8501](http://103.224.245.53:8501/)
 
 ---
 
