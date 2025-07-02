@@ -9,3 +9,4 @@ bcrypt==4.0.1
 extra-streamlit-components
 streamlit-modal
 psycopg2-binary
+geopandas
