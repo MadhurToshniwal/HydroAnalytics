@@ -23,10 +23,9 @@ This production-grade system leverages a modular backend architecture, optimized
 ### 📈 Live Data Visualization
 ![Graphs](https://github.com/MadhurToshniwal/HydroAnalytics/blob/main/dashboard3.png)
 
-### 📥 Download Reports (PDF/CSV)
-![Download](images/download_report.png)
+### 📥 Locations on Maharashtra Map with alerts
+![Map](https://github.com/MadhurToshniwal/HydroAnalytics/blob/main/dashboard4.png)
 
-> 💡 _Store these images in an `/images` folder in your repository._
 
 ---
 
