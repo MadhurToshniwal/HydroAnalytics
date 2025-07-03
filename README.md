@@ -15,7 +15,7 @@ This production-grade system leverages a modular backend architecture, optimized
 ## 📸 Screenshots
 
 ### 🔐 Login Page
-![Login Page](dashboard1.png)
+![Login Page](https://github.com/MadhurToshniwal/HydroAnalytics/blob/main/dashboard%201.png)
 
 ### 🏠 Dashboard – Main Overview
 ![Dashboard](images/dashboard_home.png)
