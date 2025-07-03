@@ -15,7 +15,7 @@ This production-grade system leverages a modular backend architecture, optimized
 ## 📸 Screenshots
 
 ### 🔐 Login Page
-![Login Page](images/login.png)
+![Login Page](dashboard1.png)
 
 ### 🏠 Dashboard – Main Overview
 ![Dashboard](images/dashboard_home.png)
