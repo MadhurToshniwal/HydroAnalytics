@@ -4,6 +4,25 @@ A robust, cloud-deployed internal dashboard engineered using **Python (Streamlit
 
 This production-grade system leverages a modular backend architecture, optimized SQL queries, and asynchronous data handling to ensure dynamic, scalable, and reliable performance. It replaces manual workflows with an end-to-end automated solution — from **data ingestion** to **interactive UI rendering** — enabling users to authenticate securely, explore live metrics, and generate downloadable reports in a single interface.
 
+🌐 Real-Time Location-Based Alert System
+In addition to internal data monitoring, the system implements a real-time alert engine based on dynamic geolocation data (latitude and longitude). It monitors live coordinates and automatically triggers alerts when specific geospatial conditions are met, such as:
+
+Entering or exiting defined geofences
+
+Proximity to high-risk zones or custom-defined areas
+
+Real-time tracking and alerting for emergency response or field operations
+
+🔧 Location Alert Features
+
+Live alert generation from continuous GPS streams
+
+Customizable geofence and threshold settings
+
+Integration-ready with webhooks, SMS, email, or push notifications
+
+Scalable and API-friendly architecture using modern frameworks
+
 ---
 
 ## 🚀 Live Demo
