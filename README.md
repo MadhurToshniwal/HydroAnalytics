@@ -45,6 +45,11 @@ Scalable and API-friendly architecture using modern frameworks
 ### 📥 Locations on Maharashtra Map with alerts
 ![Map](https://github.com/MadhurToshniwal/HydroAnalytics/blob/main/dashboard4.png)
 
+### 📥 Downloadable Historical Data
+![History](https://github.com/MadhurToshniwal/HydroAnalytics/blob/main/dashboard5.png)
+
+### 📥 Status Pie charts and data visualization
+![Status](https://github.com/MadhurToshniwal/HydroAnalytics/blob/main/dashboard6.png)
 
 ---
 
